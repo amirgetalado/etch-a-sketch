@@ -1,0 +1,15 @@
+body{
+    font-family: "Courier New", Arial, Verdana;
+    color: white;
+    font-size: 15px;
+    background-color: black;
+    text-align:center;
+}
+header h1{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-size:50px;
+}
+
+footer{
+    font-size:10px;
+}
