@@ -9,7 +9,55 @@ header h1{
     font-family: "Comic Sans MS", "Comic Sans", cursive;
     font-size:50px;
 }
+main{
+    display:flex;
+    flex-wrap: wrap;
+}
+
 
 footer{
     font-size:10px;
 }
+
+.menu{
+    flex:1;
+}
+
+.right{
+    flex:2;
+}
+
+/* grid area */
+.grid-container{
+    max-width:400px;
+    height:400px; 
+    margin:auto;  
+    border:5px solid yellow;
+    display:grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    
+}
+
+.grid-item{
+    background: white;
+    border: 1px solid grey;
+}
+
+
+
+
+/* .grid-container {
+    display: grid;
+    grid-template-columns: repeat(16, 1fr);
+    grid-template-rows: repeat(16, 1fr);
+    border: 5px solid pink;
+    max-width: 600px;
+    height: 400px;
+    margin: auto;
+  }
+
+  .grid-item {
+    background: white;
+    border: 1px solid grey;
+  } */
