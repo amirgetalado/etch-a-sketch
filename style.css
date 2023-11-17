@@ -21,6 +21,26 @@ footer{
 
 .menu{
     flex:1;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+ul{
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    list-style-type:none;
+}
+
+button{
+    /* background: white; */
+    border:1px solid yellow;
+    font: white;
+    width:100px;
+}
+
+.color-btn{
+    background-color: #94948e;
 }
 
 .right{
@@ -41,7 +61,7 @@ footer{
 
 .grid-item{
     background: white;
-    border: 1px solid grey;
+    border: 1px solid #f0f0ed;
 }
 
 
