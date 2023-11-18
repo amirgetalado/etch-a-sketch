@@ -56,9 +56,9 @@ for(const item of items){
 
 // for the Color Button
 colorBtn.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='#94948e';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='white';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='#efff75';
 
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -77,9 +77,9 @@ colorBtn.addEventListener('click', (e) =>{
 
 // for the Rainbow button
 rainbow.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='#94948e';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='white';
+    eraser.style.backgroundColor='#efff75';
     
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -95,9 +95,9 @@ rainbow.addEventListener('click', (e) =>{
 
 // for the Eraser button
 eraser.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='#94948e';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='white';
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
             item.style.backgroundColor = "#ffffff";
@@ -167,9 +167,9 @@ for(const item of items){
 
 // for the Color Button
 colorBtn.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='#94948e';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='white';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='#efff75';
 
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -188,9 +188,9 @@ colorBtn.addEventListener('click', (e) =>{
 
 // for the Rainbow button
 rainbow.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='#94948e';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='white';
+    eraser.style.backgroundColor='#efff75';
     
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -206,9 +206,9 @@ rainbow.addEventListener('click', (e) =>{
 
 // for the Eraser button
 eraser.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='#94948e';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='white';
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
             item.style.backgroundColor = "#ffffff";
@@ -280,9 +280,9 @@ for(const item of items){
 
 // for the Color Button
 colorBtn.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='#94948e';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='white';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='#efff75';
 
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -301,9 +301,9 @@ colorBtn.addEventListener('click', (e) =>{
 
 // for the Rainbow button
 rainbow.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='#94948e';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='white';
+    eraser.style.backgroundColor='#efff75';
     
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -319,9 +319,9 @@ rainbow.addEventListener('click', (e) =>{
 
 // for the Eraser button
 eraser.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='#94948e';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='white';
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
             item.style.backgroundColor = "#ffffff";
@@ -394,9 +394,9 @@ for(const item of items){
 
 // for the Color Button
 colorBtn.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='#94948e';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='white';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='#efff75';
 
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -415,9 +415,9 @@ colorBtn.addEventListener('click', (e) =>{
 
 // for the Rainbow button
 rainbow.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='#94948e';
-    eraser.style.backgroundColor='white';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='white';
+    eraser.style.backgroundColor='#efff75';
     
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
@@ -433,9 +433,9 @@ rainbow.addEventListener('click', (e) =>{
 
 // for the Eraser button
 eraser.addEventListener('click', (e) =>{
-    colorBtn.style.backgroundColor='white';
-    rainbow.style.backgroundColor='white';
-    eraser.style.backgroundColor='#94948e';
+    colorBtn.style.backgroundColor='#efff75';
+    rainbow.style.backgroundColor='#efff75';
+    eraser.style.backgroundColor='white';
     for(const item of items){
         item.addEventListener('mousedown', (e)=> {
             item.style.backgroundColor = "#ffffff";
